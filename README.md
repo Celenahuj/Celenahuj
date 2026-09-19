@@ -6,8 +6,6 @@ Je suis étudiante en 3ème année de **BUT MMI (Métiers du Multimédia et de l
 
 Curieuse, polyvalente et passionnée par la tech, je m'intéresse à tout ce touche au numérique. Je m'investis pleinement dans chacun de mes projets, qu'ils soient universitaires ou personnels, pour concevoir des expériences web modernes, créatives et performantes.
 
-Actuellement en alternance en tant que **Développeuse Web chez Myosiris Diffusion**, je conçois des applications web commerciales (tableaux de bord, statistiques, gestion de contrats). J'ai également réalisé un stage de développeuse logiciel à la DSI.
-
 ---
 
 ## 🌐 Retrouvez-moi
