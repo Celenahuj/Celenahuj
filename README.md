@@ -13,6 +13,20 @@ Mon portfolio regroupe l'ensemble de mes projets universitaires et personnels, m
 
 ---
 
+## 📊 Statistiques & Widgets Dynamiques
+
+<!-- Statistiques globales de ton profil GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Celenahuj&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de Céléna" />
+</p>
+
+<!-- Langages les plus utilisés -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celenahuj&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
+---
+
 ## 💻 Compétences Techniques
 
 ### 🌐 Développement Web & Logiciel
@@ -32,8 +46,8 @@ Mon portfolio regroupe l'ensemble de mes projets universitaires et personnels, m
 ---
 
 ## 📈 Expériences Professionnelles
-* 💼 **Alternante Développeuse Web — Myosiris Diffusion** *(En cours)* : Développement d'une application web commerciale, tableaux de bord, statistiques et gestion de contrats[cite: 3].
-* 💻 **Stagiaire Développeuse Logiciel — DSI** *(Avril 2026 - Mai 2026)* : Développement WinDev, intégration d'API, gestion de données et amélioration d'interface[cite: 3].
+* 💼 **Alternante Développeuse Web — Myosiris Diffusion** *(En cours)* : Développement d'une application web commerciale, tableaux de bord, statistiques et gestion de contrats.
+* 💻 **Stagiaire Développeuse Logiciel — DSI** *(Avril 2026 - Mai 2026)* : Développement WinDev, intégration d'API, gestion de données et amélioration d'interface.
 
 ---
-📫 **Contact :** [hujolcelena@gmail.com](mailto:hujolcelena@gmail.com) | [LinkedIn](https://www.linkedin.com/in/céléna-hujol)[cite: 3]
+📫 **Contact :** [hujolcelena@gmail.com](mailto:hujolcelena@gmail.com) | [LinkedIn](https://www.linkedin.com/in/céléna-hujol)
