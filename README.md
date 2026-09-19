@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Céléna Hujol !
+# Bonjour, moi c'est Céléna Hujol !
 
 Bienvenue sur mon profil GitHub ! Je suis étudiante en 3ème année de **BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin (Limoges), avec un parcours orienté vers le **développement web et les dispositifs interactifs**[cite: 3]. 
 
