@@ -21,12 +21,12 @@ Mon portfolio regroupe l'ensemble de mes projets universitaires et personnels, m
 * **Hébergement & SEO :** Mise en ligne, configuration de base, optimisation du référencement naturel[cite: 3].
 
 ### 🎨 Webdesign & UX/UI
-* **Outils :** Figma (wireframes, zoning, prototypage interactif)[cite: 3].
-* **Méthodes :** Ergonomie, design d'interfaces centré utilisateur, benchmarks et analyses concurrentielles[cite: 3].
+* **Outils :** Figma (wireframes, zoning, prototypage interactif).
+* **Méthodes :** Ergonomie, design d'interfaces centré utilisateur, benchmarks et analyses concurrentielles.
 
 ### 🖌️ Graphisme & Création Visuelle
 * **Logiciels :** Adobe Illustrator et Photoshop[cite: 3].
-* **Projets créatifs :** Conception artistique originale, notamment le design des arcanes du Tarot de Marseille[cite: 3].
+* **Projets créatifs :** Conception artistique originale, notamment le design des arcanes du Tarot de Marseille.
 
 ---
 
