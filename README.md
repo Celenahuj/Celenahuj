@@ -1,13 +1,13 @@
 # Bonjour, moi c'est Céléna Hujol !
 
-Bienvenue sur mon profil GitHub ! Je suis étudiante en 3ème année de **BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin (Limoges), avec un parcours orienté vers le **développement web et les dispositifs interactifs**[cite: 3]. 
+Bienvenue sur mon profil GitHub ! Je suis étudiante en 3ème année de **BUT MMI (Métiers du Multimédia et de l'Internet)** à l'IUT du Limousin (Limoges), avec un parcours orienté vers le **développement web et les dispositifs interactifs**. 
 
-Actuellement en alternance en tant que **Développeuse Web chez Myosiris Diffusion**, je conçois des applications web commerciales (tableaux de bord, statistiques, gestion de contrats)[cite: 3]. J'ai également réalisé un stage de développeuse logiciel à la DSI (WinDev, intégration d'API, gestion de données)[cite: 3].
+Actuellement en alternance en tant que **Développeuse Web chez Myosiris Diffusion**, je conçois des applications web commerciales (tableaux de bord, statistiques, gestion de contrats)[cite: 3]. J'ai également réalisé un stage de développeuse logiciel à la DSI (WinDev, intégration d'API, gestion de données).
 
 ---
 
 ## 🚀 À propos de mon Portfolio
-🌐 **Découvrez mon portfolio en ligne :** [celenahuj.github.io/Portfolio](https://celenahuj.github.io/Portfolio/)[cite: 3]  
+🌐 **Découvrez mon portfolio en ligne :** [celenahuj.github.io/Portfolio](https://celenahuj.github.io/Portfolio/) 
 Mon portfolio regroupe l'ensemble de mes projets universitaires et personnels, mettant en valeur mes compétences en développement front-end/back-end, en design et en intégration web.
 
 ---
@@ -15,17 +15,17 @@ Mon portfolio regroupe l'ensemble de mes projets universitaires et personnels, m
 ## 💻 Compétences Techniques
 
 ### 🌐 Développement Web & Logiciel
-* **Front-end :** HTML, CSS, JavaScript, Next.js, React, Three.js & GSAP (création d'interfaces modernes et immersives)[cite: 3].
-* **Back-end :** PHP, Symfony, MySQL, Docker, WinDev (PC SOFT)[cite: 3].
-* **Intégration & Outils :** Sites One Page, Git / GitHub, Visual Studio Code, Trello[cite: 3].
-* **Hébergement & SEO :** Mise en ligne, configuration de base, optimisation du référencement naturel[cite: 3].
+* **Front-end :** HTML, CSS, JavaScript, Next.js, React, Three.js & GSAP (création d'interfaces modernes et immersives).
+* **Back-end :** PHP, Symfony, MySQL, Docker, WinDev (PC SOFT).
+* **Intégration & Outils :** Sites One Page, Git / GitHub, Visual Studio Code, Trello.
+* **Hébergement & SEO :** Mise en ligne, configuration de base, optimisation du référencement naturel.
 
 ### 🎨 Webdesign & UX/UI
 * **Outils :** Figma (wireframes, zoning, prototypage interactif).
 * **Méthodes :** Ergonomie, design d'interfaces centré utilisateur, benchmarks et analyses concurrentielles.
 
 ### 🖌️ Graphisme & Création Visuelle
-* **Logiciels :** Adobe Illustrator et Photoshop[cite: 3].
+* **Logiciels :** Adobe Illustrator et Photoshop.
 * **Projets créatifs :** Conception artistique originale, notamment le design des arcanes du Tarot de Marseille.
 
 ---
